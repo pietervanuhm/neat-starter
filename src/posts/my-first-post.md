@@ -12,6 +12,8 @@ tags:
 ---
 # This is a Heading h1
 
+![](/static/img/01_achterveld_3791_pn_hessenweg_212.jpg)
+
 ## This is a Heading h2
 
 ###### This is a Heading h6
